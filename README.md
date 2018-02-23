@@ -1,5 +1,5 @@
 # Readme
-This is a simple example of using [https://github.com/wstrange/GoogleAuth] (Google Authenticator library) in a spring boot
+This is a simple example of using [Google Authenticator library](https://github.com/wstrange/GoogleAuth) in a spring boot
 enabled app.
 
 It is composed of three simple views and a controller that makes all th job.
